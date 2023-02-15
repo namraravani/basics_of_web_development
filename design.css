@@ -1,0 +1,91 @@
+div.main{
+    width: 400px;
+    margin: 100px auto Opx auto;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    display:center;
+    }
+
+
+    h2{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+    }
+    
+div.register{
+    
+    background-color:rgba (0, 0,0, 0.5);
+    width: 100%;
+    font-size: 18px;
+    border-radius: 10px;
+    border:1px sold rgba(255, 255, 255,0.3);
+    box-shadow:2px 2px 15px;
+    align-content: center;
+    background-color: aqua;
+    margin-left: 50%;
+}
+
+
+
+#entries{
+    background-color: bisque;
+    margin-top: 0px;
+    border-radius: 20px;
+    
+}
+
+#submit{
+    background-color: greenyellow;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;    
+}
+
+#name{
+
+    height:30px;
+    width:160px;
+    margin-left:100px ;
+    border-radius:5px;
+
+}
+
+#email{
+
+    height:30px;
+    width:160px;
+    margin-left:100px ;
+    border-radius:5px;
+
+}
+
+#password{
+
+    height:30px;
+    width:160px;
+    margin-left:75px ;
+    border-radius:5px;
+
+}
+
+#dob{
+
+    height:30px;
+    width:160px;
+    margin-left:55px ;
+    border-radius:5px;
+
+}
+
+#entries{
+    height: 300px;
+    margin-top: 60px;
+    width: 450px;
+}
+
+#hello{
+    margin-top: 20px;
+    text-decoration: darkblue;
+}
+
